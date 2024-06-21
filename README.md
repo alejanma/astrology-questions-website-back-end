@@ -1,4 +1,5 @@
 ---
+
 # Astrology Questions App Backend
 
 Welcome to the backend repository of the Astrology Questions App. This RESTful API provides essential CRUD functionalities for managing Astrology-related questions. It seamlessly integrates with MongoDB, offering a robust document-based database solution.
@@ -13,4 +14,5 @@ Welcome to the backend repository of the Astrology Questions App. This RESTful A
 
 ## Developer
 Designed and Developed by **Marian Alejandro Heredia** - Winter 2023
+
 ---
